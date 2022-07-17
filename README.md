@@ -1,7 +1,9 @@
 # sorting-files-into-folders
 
 Скрипт проходит по указанной во время вызова папке и сортирует все файлы по папкам в соответствии с расширением:
+
 •	images ('JPEG', 'PNG', 'JPG', 'SVG');
+
 •	video ('AVI', 'MP4', 'MOV', 'MKV');
 •	documents ('DOC', 'DOCX', 'TXT', 'PDF', 'XLSX', 'PPTX');
 •	audio ('MP3', 'OGG', 'WAV', 'AMR');
